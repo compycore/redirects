@@ -1,8 +1,8 @@
 # Redirects
 
-[![Build Status](https://travis-ci.org/milkbarlife/redirects.svg?branch=master)](https://travis-ci.org/milkbarlife/redirects)
+[![Build Status](https://travis-ci.org/compycore/redirects.svg?branch=master)](https://travis-ci.org/compycore/redirects)
 
-This repository (hosted via GitHub Pages) contains URL short links for [milkbar.life](https://milkbar.life). There is a CloudFlare page rule set up to redirect `milkbarlife.com/r/*` links here.
+This repository (hosted via GitHub Pages) contains URL short links for [compycore.com](https://compycore.com). There is a CloudFlare page rule set up to redirect `compycore.com/r/*` links here.
 
 ## Usage
 
