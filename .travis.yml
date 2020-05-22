@@ -3,7 +3,7 @@ dist: bionic
 notifications:
   email:
     recipients:
-      - milkbarlife@gmail.com
+      - compycore@gmail.com
     on_success: change
     on_failure: always
 
