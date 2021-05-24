@@ -1,6 +1,6 @@
 # Redirects
 
-[![Build Status](https://travis-ci.org/compycore/redirects.svg?branch=master)](https://travis-ci.org/compycore/redirects)
+[![build status](https://github.com/compycore/redirects/actions/workflows/check-links.yml/badge.svg)](https://github.com/compycore/redirects/actions/workflows/check-links.yml)
 
 This repository (hosted via GitHub Pages) contains URL short links for [compycore.com](https://compycore.com). There is a CloudFlare page rule set up to redirect `compycore.com/r/*` links here.
 
