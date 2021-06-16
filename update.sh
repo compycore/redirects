@@ -3,7 +3,7 @@
 source ./config.sh
 
 # Delete all existing shell scripts
-find . -maxdepth 1 -name "*.sh" ! -name "update.sh" -delete
+find . -maxdepth 1 -name "*.sh" ! -name "update.sh" ! -name "config.sh" -delete
 
 # Clone the jessemillar /redirects repo to a /tmp location
 (
